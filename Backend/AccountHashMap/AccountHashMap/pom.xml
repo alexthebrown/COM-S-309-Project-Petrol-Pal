@@ -10,9 +10,9 @@
     </parent>
     <groupId>com.cs309</groupId>
     <artifactId>tutorial</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>tutorial</name>
-    <description>Demo project for Spring Boot</description>
+    <version>0.0.1-PI</version>
+    <name>petrolPal</name>
+    <description>Backend for Petrol Pal</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -56,6 +56,11 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.28</version> <!-- Use the latest version available -->
+        </dependency>
+        <dependency>
+            <groupId>org.mariadb.jdbc</groupId>
+            <artifactId>mariadb-java-client</artifactId>
+            <version>2.7.2</version> <!-- Use the latest version available -->
         </dependency>
         <dependency> <!-- extrah2 -->
             <groupId>com.h2database</groupId>
