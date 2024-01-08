@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3a903e8-0c4e-45db-9439-3a496ff81ab5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2023_5_37_PM_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2023_5_37_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/src/main/java/org/example/accountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/src/main/java/org/example/accountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/target/classes/org/example/TestAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/target/classes/org/example/TestAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/target/classes/org/example/accountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/AccountHashMap/AccountHashMap/target/classes/org/example/accountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2023_5_37_PM_[Changes]/shelved.patch" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +18,11 @@
         <entry key="$PROJECT_DIR$/.." value="29-code-signup-page-backend" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2WYb908AZBljq5WuA168B3j2o5D" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +33,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/alexbrown/Documents/GitHub/COM-S-309-Project-Petrol-Pal/Backend",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +50,11 @@
       <option name="presentableId" value="Default" />
       <updated>1696912309638</updated>
       <workItem from="1696912311060" duration="1000" />
+      <workItem from="1704686280727" duration="33000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
